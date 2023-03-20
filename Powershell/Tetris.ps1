@@ -1,3 +1,5 @@
+Function Tetris
+{
 [Console]::Beep(658, 125)
 [Console]::Beep(1320, 500)
 [Console]::Beep(990, 250)
@@ -113,3 +115,4 @@ sleep -m 500
 [Console]::Beep(660, 500)
 [Console]::Beep(880, 1000)
 [Console]::Beep(838, 2000)
+}
